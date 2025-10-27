@@ -1,8 +1,8 @@
-# T'Keyah <Your Last Name>
-# Date: <MM/DD/YYYY>
+# T'Keyah Jefferies
+# Date: 10-26-2025
 # Assignment: P3HW2_Salary_LastnameFirstname.py
 # Brief: Prompt for employee name, hours worked, and pay rate. Compute overtime,
-#        regular pay, and gross pay. Display a formatted pay summary.
+# regular pay, and gross pay. Display a formatted pay summary.
 
 """
 PSEUDOCODE
